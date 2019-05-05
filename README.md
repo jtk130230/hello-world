@@ -1,4 +1,3 @@
 # hello-world
 This program prints hello World
-SHITTY DICK
-Shit
+This is a test for branching
